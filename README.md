@@ -1,6 +1,6 @@
 # Rooster Regulation
 
-A Javascript script with tests based on mocha.
+A Javascript program with tests based on mocha.
 
 ## Table of contents
 

@@ -18,7 +18,7 @@ A Javascript program with tests based on mocha.
 * Node and Node Package Manager
 * Git & GitHub
 * Mocha
-* Assert Library
+* Chai
 
 ## Languages
 

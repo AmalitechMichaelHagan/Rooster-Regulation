@@ -1,6 +1,6 @@
-# Quote Generator
+# Rooster Regulation
 
-A web API, built with Express and Node.js, that stores and serves quotes.
+A Javascript script with tests based on mocha.
 
 ## Table of contents
 
